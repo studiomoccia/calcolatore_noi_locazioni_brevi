@@ -1,6 +1,6 @@
 # 📊 Calcolatore NOI - Locazioni Brevi
 
-> 🏖️ Analizza la redditività dei tuoi affitti turistici e short-term rental con precisione professionale
+> 🏖️ Analizza la redditività dei tuoi affitti turistici e short-term rental
 
 ## 🎯 Cosa fa questo calcolatore?
 
@@ -16,5 +16,5 @@ Trasforma numeri complessi in decisioni semplici! Questo strumento ti aiuta a ca
 
 ## 🚀 Come si usa?
 
-### Metodo 1️⃣: Online (il più veloce)
+### 1️⃣: Online
 Vai su 👉 ** https://studiomoccia.github.io/calcolatore_noi_locazioni_brevi/
