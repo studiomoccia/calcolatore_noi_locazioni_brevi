@@ -17,4 +17,4 @@ Trasforma numeri complessi in decisioni semplici! Questo strumento ti aiuta a ca
 ## 🚀 Come si usa?
 
 ### Metodo 1️⃣: Online (il più veloce)
-Vai su 👉 **[https://studiomoccia.github.io/calcolatore-noi-brevi/](https://studiomoccia.github.io/calcolatore-noi-brevi/)**
+Vai su 👉 ** https://studiomoccia.github.io/calcolatore_noi_locazioni_brevi/
